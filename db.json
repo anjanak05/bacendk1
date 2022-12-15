@@ -1,0 +1,68 @@
+{
+    "admin": [
+      {
+        "id": 1,
+        "name": "ridhd",
+        "gender": "male",
+        "profession": "student",
+        "age": 20,
+        "country": "india"
+      },
+      {
+        "name": "anjana kushwaha",
+        "age": "21",
+        "country": "england",
+        "gender": "",
+        "profession": "Employed",
+        "id": 2
+      },
+      {
+        "name": "seemakushwaha",
+        "age": "28",
+        "country": "canada",
+        "gender": "Male",
+        "profession": "Student",
+        "id": 3
+      },
+      {
+        "name": "ravi",
+        "age": "25",
+        "country": "canada",
+        "gender": "Female",
+        "profession": "Student",
+        "id": 4
+      },
+      {
+        "name": "anju",
+        "age": "34",
+        "country": "india",
+        "gender": "Male",
+        "profession": "Student",
+        "id": 5
+      },
+      {
+        "name": "anjana kushwaha",
+        "age": "34",
+        "country": "india",
+        "gender": "Female",
+        "profession": "Employed",
+        "id": 6
+      },
+      {
+        "name": "anju",
+        "age": "34",
+        "country": "england",
+        "gender": "Male",
+        "profession": "Student",
+        "id": 7
+      },
+      {
+        "name": "anjana kushwaha",
+        "age": "34",
+        "country": "india",
+        "gender": "Female",
+        "profession": "Student",
+        "id": 8
+      }
+    ]
+  }
